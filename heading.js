@@ -5,10 +5,10 @@ const Heading = (props)  =>
     return(
 
         <div>
-            <h1 className='h1class'> Wanna check the weather update? </h1><br>
+            <h1 className='h1class'> Welcome to weathery </h1><br>
             </br>
             <h3>
-                Let's find out the weather in your country
+                Time to find out weather updates!
             </h3>
         </div>
     )
